@@ -1,0 +1,587 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+._形状 {
+  font-size:12px;
+}
+._图片 {
+  font-size:12px;
+}
+.placeholder {
+}
+.button {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-align:center;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+._一级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:12px;
+  text-align:left;
+}
+._文本段落 {
+  font-size:12px;
+  text-align:left;
+}
+._文本链接 {
+  color:#0000FF;
+}
+._鼠标悬停文本链接时 {
+}
+._鼠标按下文本链接时 {
+}
+.line {
+}
+.heading_1 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.text_field {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
+.menu_item {
+}
+._连接线 {
+}
+._流程形状 {
+}
+.snapshot {
+  font-size:12px;
+}
+.sticky_1 {
+  text-align:left;
+}
+.sticky_2 {
+  text-align:left;
+}
+.marker {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.paragraph {
+  text-align:left;
+}
+.heading_11 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.shape {
+}
+.paragraph1 {
+  text-align:left;
+}
+.box_1 {
+}
+.box_2 {
+}
+.text_link {
+  color:#0000FF;
+}
+.box_3 {
+}
+.ellipse {
+}
+.image {
+  color:#000000;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.horizontal_line {
+}
+.contact_chips {
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.537254901960784);
+}
+.contact_avatar {
+}
+.divider {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
+.vertical_line {
+}
+.horizontal_line1 {
+}
+.fontawesome {
+}
+._文本段落1 {
+  font-size:12px;
+  text-align:left;
+}
+._形状1 {
+  font-size:12px;
+}
+._文本框 {
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+}
+._垂直线 {
+}
+._文本链接1 {
+  font-size:12px;
+  color:#0000FF;
+}
+._鼠标悬停文本链接时1 {
+  font-size:12px;
+}
+._鼠标按下文本链接时1 {
+  font-size:12px;
+}
+._水平线 {
+}
+._图片1 {
+}
+.icon {
+}
+._文本段落2 {
+  text-align:left;
+}
+._文本框1 {
+  color:#000000;
+  text-align:left;
+}
+._复选框 {
+  text-align:left;
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+._图片2 {
+  color:#000000;
+}
+._单选按钮 {
+  text-align:left;
+}
+._多行文本框 {
+  color:#000000;
+  text-align:left;
+}
+._形状2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._图片3 {
+  color:#000000;
+}
+.flow_shape {
+}
+.snapshot1 {
+}
+._表格 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+}
+._单元格 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#666666;
+}
+._文本框2 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._形状3 {
+  font-size:13px;
+  color:#000000;
+}
+.background-5 {
+}
+.background-10 {
+}
+.background-20 {
+}
+.windows_title_bar {
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+.mac_title_bar {
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+}
+.windows_default_button {
+  font-size:12px;
+}
+.windows_primary_button {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.windows_link_button {
+  font-size:12px;
+  color:#169BD5;
+}
+.android_flat_button {
+  font-size:14px;
+  color:#169BD5;
+}
+.hint {
+  color:#999999;
+}
+.selected {
+  color:#FFFFFF;
+}
+.menu_background {
+}
+.menu_items {
+  text-align:left;
+}
+.normal_text {
+  font-size:16px;
+  color:#333333;
+  text-align:left;
+  line-height:24px;
+}
+.android_title_text_light {
+  font-size:20px;
+  color:#FFFFFF;
+}
+.heading_3 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph2 {
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.text_field1 {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.text_area1 {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.list_box1 {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.line1 {
+}
+.table {
+  font-size:14px;
+}
+.droplist1 {
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.table_cell1 {
+  font-size:14px;
+  text-align:left;
+}
+.checkbox1 {
+  font-size:14px;
+  text-align:left;
+}
+.radio_button1 {
+  font-size:14px;
+  text-align:left;
+}
+.headline {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.title {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.subheader {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.body_2___menu {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+}
+.caption {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:rgba(0, 0, 0, 0.537254901960784);
+}
+.primary_text_dark {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.secondary_text_dark {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.537254901960784);
+}
+.disabled_text_dark {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
+.primary_text_light {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.secondary_text_light {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.698039215686274);
+}
+.disabled_text_light {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(255, 255, 255, 0.298039215686275);
+}
+.float_button {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:24px;
+  color:#FFFFFF;
+}
+.flat_button {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:#2196F3;
+}
+.flat_button_pressed {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:#2196F3;
+}
+.flat_button_disabled {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
+.raised_button {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.raised_button_pressed {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.raised_button_disabled {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
+.status_bar_dark {
+}
+.title_bar_dark {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(255, 255, 255, 0.866666666666667);
+  text-align:left;
+}
+.content_bg_dark {
+}
+.dialog_dark {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+}
+.status_bar_light {
+}
+.title_bar_light {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.content_bg_light {
+}
+.dialog_light {
+  font-family:'Roboto';
+  font-weight:500;
+  font-style:normal;
+  font-size:20px;
+  color:rgba(0, 0, 0, 0.866666666666667);
+  text-align:left;
+}
+.hint_text {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.258823529411765);
+}
+.card {
+}
+.heading_2 {
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._形状4 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+}
+.lable_text_field {
+}
